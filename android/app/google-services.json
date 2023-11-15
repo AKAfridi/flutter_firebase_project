@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171620990601",
+    "project_id": "dumyproject-41053",
+    "storage_bucket": "dumyproject-41053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171620990601:android:397c884adafbaadd701058",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171620990601-arb9h2jm93a0ipuh1q4b0jt4sij2cp1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_61XKE2M7IgW_IWo7nNTYkqtMnZH_7AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171620990601-arb9h2jm93a0ipuh1q4b0jt4sij2cp1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
